@@ -2,6 +2,7 @@
 
 My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps. I'm interested in NLP/NLU and conversational AI. 
 
+_If life gives you demons, make demonade._
 #### Chat or connect with me
 
 
