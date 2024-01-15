@@ -27,6 +27,10 @@ My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
 
+<a href="https://stackoverflow.com/users/14123992/no-steppin-on-snekin">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+
 -----------
 
 #### Current OS
