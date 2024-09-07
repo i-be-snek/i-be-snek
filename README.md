@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps. I'm interested in NLP/NLU and conversational AI. 
-
-🍋 _When life gives you demons, make demonade._
+My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer. 
 
 #### Chat or connect with me
-
 
 <a href="https://huggingface.co/i-be-snek">
 <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg">
@@ -35,7 +32,7 @@ My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps
 
 #### Current OS
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-253631?style=for-the-badge&logo=Linux%20Mint)
-
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 #### Browser of choice
 ![Firefox](https://img.shields.io/badge/firefox-%23d9ead3.svg?style=for-the-badge&logo=firefox-browser)
 
@@ -62,6 +59,7 @@ My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps
 	<img src="https://img.shields.io/badge/🤗_Transformers-FFDD67.svg?style=for-the-badge"
 			alt="Transformers">
 </a>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=Rasa)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -85,4 +83,6 @@ My name is Shorouq and I'm a data scientist who likes Machine Learning and MLOps
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+
+🍋 _When life gives you demons, make demonade._
 
