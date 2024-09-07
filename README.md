@@ -83,6 +83,10 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+-----------
+#### Publications
+
+[Using LLMs to Build a Database of Climate Extreme Impacts](https://aclanthology.org/2024.climatenlp-1.7) (Li et al., ClimateNLP-WS 2024)
 
 🍋 _When life gives you demons, make demonade._
 
