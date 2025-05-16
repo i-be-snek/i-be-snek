@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer. 
+My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra) and as a part time research assistant at Uppsala University. 
 
 #### Chat or connect with me
 
@@ -83,9 +83,5 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
------------
-#### Publications
 
-- [Using LLMs to Build a Database of Climate Extreme Impacts](https://aclanthology.org/2024.climatenlp-1.7)
-- [Overview of the CLEF-2024 Eloquent Lab: Task 2 on HalluciGen](https://ri.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=25&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A1895608&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=1700)
 
