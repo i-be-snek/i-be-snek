@@ -1,31 +1,33 @@
 ### Hi there 👋
 
-My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra) and as a part time research assistant at Uppsala University. 
+My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra) and as a part time research assistant at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-705).
 
-#### Chat or connect with me
+#### Follow me
 
-<a href="https://huggingface.co/i-be-snek">
+<a href="https://huggingface.co/i-be-snek"> 
 <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg">
 </a>
 
-<a href="https://www.linkedin.com/in/sjzahra/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
-</a>
+<!--  <a href="https://www.linkedin.com/in/sjzahra/"> -->
+<!--  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">  -->
+<!--  </a>  -->
 
-<a href="https://discord.com/users/909833273520304258">
-<img src="https://img.shields.io/badge/Discord-%23d9ead3.svg?style=for-the-badge&logo=discord">
-</a>
+<!--  <a href="https://discord.com/users/909833273520304258">  -->
+<!--  <img src="https://img.shields.io/badge/Discord-%23d9ead3.svg?style=for-the-badge&logo=discord">  -->
+<!--  </a>  -->
 
-<a href="https://open.spotify.com/user/317bo6kjunjpfvchigaowh2ojhna?si=987345772d764596">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-
-<a href="mailto:sjzahra@proton.me">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
+<!--  <a href="https://open.spotify.com/user/317bo6kjunjpfvchigaowh2ojhna?si=987345772d764596">  -->
+<!--  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">  -->
+<!--  </a>  -->
 
 <a href="https://stackoverflow.com/users/14123992/no-steppin-on-snekin">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+
+#### Contact me
+
+<a href="mailto:sjzahra@proton.me">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
 
 -----------
@@ -54,12 +56,12 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 </a>
 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23d9ead3.svg?style=for-the-badge&logo=TensorFlow)
 <a href="https://gitmoji.dev">
 	<img src="https://img.shields.io/badge/🤗_Transformers-FFDD67.svg?style=for-the-badge"
 			alt="Transformers">
 </a>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=Rasa)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -82,6 +84,3 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-
