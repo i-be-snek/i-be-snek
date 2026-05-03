@@ -1,6 +1,25 @@
 ### Hi there 👋
 
-My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra) and as a part time research assistant at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-705).
+My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra). 
+
+Previously a research assistant at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-705) within the [LUVAL group](https://www.uu.se/institution/geovetenskaper/forskning/luft--vatten--och-landskapslara).
+
+
+#### Conference Labs and Workshops
+- Co-organizer in [Eloquent 2024](https://clef2024.clef-initiative.eu/index.php?page=Pages/lab_pages/eloquent.html) @ CLEF 
+- Program Committe in [HeaLing 2026](https://aclanthology.org/2026.healing-1.0.pdf) @ EACL
+
+#### Publications:
+
+ORCID: [0009-0007-2792-9345](https://orcid.org/0009-0007-2792-9345)
+
+- Ni Li, Shorouq Zahra, Mariana Brito, Clare Flynn, Olof Görnerup, Koffi Worou, Murathan Kurfali, Chanjuan Meng, Wim Thiery, Jakob Zscheischler, Gabriele Messori, and Joakim Nivre. 2024. [Using LLMs to Build a Database of Climate Extreme Impacts.](https://aclanthology.org/2024.climatenlp-1.7/) In Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024), pages 93–110, Bangkok, Thailand. Association for Computational Linguistics.
+- Murathan Kurfalı, Shorouq Zahra, Evangelia Gogoulou, Luise Dürlich, Fredrik Carlsson, and Joakim Nivre. 2025. SweSAT-1.0: [The Swedish University Entrance Exam as a Benchmark for Large Language Models](https://aclanthology.org/2025.nodalida-1.36/). In Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), pages 331–339, Tallinn, Estonia. University of Tartu Library.
+- Murathan Kurfali, Shorouq Zahra, Joakim Nivre, and Gabriele Messori. 2025. [ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change.](https://aclanthology.org/2025.climatenlp-1.13/) In Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025), pages 194–207, Vienna, Austria. Association for Computational Linguistics.
+- Evangelia Gogoulou, Shorouq Zahra, Liane Guillou, Luise Dürlich, and Joakim Nivre. 2025. [Can LLMs Detect Intrinsic Hallucinations in Paraphrasing and Machine Translation?](https://aclanthology.org/2025.gem-1.13/). In Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²), pages 161–177, Vienna, Austria and virtual meeting. Association for Computational Linguistics.
+- (Preprint) [A new set of tropical cyclone damage functions calibrated with the Wikimpacts 2.0 database and CLIMADA ensemble-of-strategies method](https://meetingorganizer.copernicus.org/EGU26/EGU26-11328.html)
+- (Preprint) [Wikimpacts 1.0: A new global climate impact database based on automated information extraction from Wikipedia](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4891/)
+- Shorouq Zahra. 2020. [Targeted Topic Modeling for Levantine Arabic. Dissertation.](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1439483&dswid=3907)
 
 #### Follow me
 
@@ -55,7 +74,6 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 			alt="Gitmoji">
 </a>
 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23d9ead3.svg?style=for-the-badge&logo=TensorFlow)
 <a href="https://gitmoji.dev">
