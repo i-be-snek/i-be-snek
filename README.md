@@ -19,7 +19,7 @@ ORCID: [0009-0007-2792-9345](https://orcid.org/0009-0007-2792-9345)
 - Evangelia Gogoulou, Shorouq Zahra, Liane Guillou, Luise Dürlich, and Joakim Nivre. 2025. [Can LLMs Detect Intrinsic Hallucinations in Paraphrasing and Machine Translation?](https://aclanthology.org/2025.gem-1.13/). In Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²), pages 161–177, Vienna, Austria and virtual meeting. Association for Computational Linguistics.
 - (Preprint) [A new set of tropical cyclone damage functions calibrated with the Wikimpacts 2.0 database and CLIMADA ensemble-of-strategies method](https://meetingorganizer.copernicus.org/EGU26/EGU26-11328.html)
 - (Preprint) [Wikimpacts 1.0: A new global climate impact database based on automated information extraction from Wikipedia](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4891/)
-- Shorouq Zahra. 2020. [Targeted Topic Modeling for Levantine Arabic. Dissertation.](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1439483&dswid=3907)
+- Shorouq Zahra. 2020. [Targeted Topic Modeling for Levantine Arabic.](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1439483&dswid=3907) Dissertation.
 
 #### Follow me
 
