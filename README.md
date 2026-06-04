@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra). 
+My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and conversational AI. I'm currently working as a research engineer at [RISE](https://www.ri.se/en/person/shorouq-zahra) and at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-705). 
 
-Previously a research assistant at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-705) within the [LUVAL group](https://www.uu.se/institution/geovetenskaper/forskning/luft--vatten--och-landskapslara).
+Previously a research assistant at Uppsala University within the [LUVAL group](https://www.uu.se/institution/geovetenskaper/forskning/luft--vatten--och-landskapslara).
 
 
 #### Conference Labs and Workshops
