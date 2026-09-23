@@ -4,11 +4,6 @@ My name is Shorouq and I'm into machine learning and MLOps, NLP/NLU, and convers
 
 Previously a research assistant at Uppsala University within the [LUVAL group](https://www.uu.se/institution/geovetenskaper/forskning/luft--vatten--och-landskapslara).
 
-
-#### Conference Labs and Workshops
-- Co-organizer in [Eloquent 2024](https://clef2024.clef-initiative.eu/index.php?page=Pages/lab_pages/eloquent.html) @ CLEF 
-- Program Committe in [HeaLing 2026](https://aclanthology.org/2026.healing-1.0.pdf) @ EACL
-
 #### Publications:
 
 ORCID: [0009-0007-2792-9345](https://orcid.org/0009-0007-2792-9345)
