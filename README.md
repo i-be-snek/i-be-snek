@@ -8,13 +8,19 @@ Previously a research assistant at Uppsala University within the [LUVAL group](h
 
 ORCID: [0009-0007-2792-9345](https://orcid.org/0009-0007-2792-9345)
 
+- Jeanne Fernandez, Shorouq Zahra, Mariana Madruga de Brito, and Johanna Mård. 2026. [Extracting information on public water shortages using news media and LLMs: a pilot study in Sweden](https://aclanthology.org/2026.climatenlp-1.7/). In Proceedings of the 3rd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2026), pages 99–115, Budapest, Hungary. Association for Computational Linguistics.
 - Ni Li, Shorouq Zahra, Mariana Brito, Clare Flynn, Olof Görnerup, Koffi Worou, Murathan Kurfali, Chanjuan Meng, Wim Thiery, Jakob Zscheischler, Gabriele Messori, and Joakim Nivre. 2024. [Using LLMs to Build a Database of Climate Extreme Impacts.](https://aclanthology.org/2024.climatenlp-1.7/) In Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024), pages 93–110, Bangkok, Thailand. Association for Computational Linguistics.
 - Murathan Kurfalı, Shorouq Zahra, Evangelia Gogoulou, Luise Dürlich, Fredrik Carlsson, and Joakim Nivre. 2025. SweSAT-1.0: [The Swedish University Entrance Exam as a Benchmark for Large Language Models](https://aclanthology.org/2025.nodalida-1.36/). In Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), pages 331–339, Tallinn, Estonia. University of Tartu Library.
 - Murathan Kurfali, Shorouq Zahra, Joakim Nivre, and Gabriele Messori. 2025. [ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change.](https://aclanthology.org/2025.climatenlp-1.13/) In Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025), pages 194–207, Vienna, Austria. Association for Computational Linguistics.
 - Evangelia Gogoulou, Shorouq Zahra, Liane Guillou, Luise Dürlich, and Joakim Nivre. 2025. [Can LLMs Detect Intrinsic Hallucinations in Paraphrasing and Machine Translation?](https://aclanthology.org/2025.gem-1.13/). In Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²), pages 161–177, Vienna, Austria and virtual meeting. Association for Computational Linguistics.
 - (Preprint) [A new set of tropical cyclone damage functions calibrated with the Wikimpacts 2.0 database and CLIMADA ensemble-of-strategies method](https://meetingorganizer.copernicus.org/EGU26/EGU26-11328.html)
 - N. Li, W. Thiery, S. Zahra, M. Madruga de Brito, K. Worou, M. Kurfalı, S. Lampe, P. Muñoz, C. Flynn, C. Trigoso, J. Nivre, J. Zscheischler, and G. Messori. 2026. [Wikimpacts 1.0: a new global climate impact database based on automated information extraction from Wikipedia](https://nhess.copernicus.org/articles/26/2609/2026). Natural Hazards and Earth System Sciences, 26(6):2609--2636.
-- Shorouq Zahra. 2020. [Targeted Topic Modeling for Levantine Arabic.](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1439483&dswid=3907) Dissertation.
+- Shorouq Zahra. 2020. [Targeted Topic Modeling for Levantine Arabic.](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1439483&dswid=3907) Master’s Thesis in Language Technology.
+
+
+#### Thesis students
+- [**Word Salad: detecting question evasion in political question–answer pairs**](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-594219) by Jiawen, Hu. Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Languages, Department of Linguistics and Philology. 
+- [**Evaluation Robustness of Climate NLP Benchmarks: Revising SciDCC through Lexical Transformations in Multi-Label Scenarios**](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-593136) by Stoykova, Yanitsa. Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Languages, Department of Linguistics and Philology.
 
 #### Follow me
 
